@@ -2,6 +2,8 @@ package de.witchcafe.wator;
 
 import org.junit.jupiter.api.Test;
 
+import de.witchcafe.wator.WaTor;
+
 class WatorTests {
 
 	@Test
